@@ -13,3 +13,5 @@ I had some challenges on changing the format of the mars facts table. For exampl
 '''
 ## Changes on index.html
 I have made two changes to the page. 1)Changed the "Scrape New Data" to italic and changed the blue color to green 2) reorganized the images of hemispheres to four in a row instead of the old version 2 in one row. It looks more clean and precise now. Overall, this was one of the biggest challenges so far.
+![image](https://github.com/dilnigar1007/HTML-Challenge/blob/main/images.png)
+![button](https://github.com/dilnigar1007/HTML-Challenge/blob/main/button.png)
